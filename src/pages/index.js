@@ -13,12 +13,6 @@ export default function Home() {
 
   return (
     <div>
-      <h1 style={{ color: "green" }}>
-        GeeksforGeeks
-      </h1>
-      <h3>
-        React Example for using setInterval method
-      </h3>
       <h1>{count}</h1>
     </div>
   );
